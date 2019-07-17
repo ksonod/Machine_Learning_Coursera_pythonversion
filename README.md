@@ -1,2 +1,2 @@
 # Machine_Learning_Coursera_pythonversion
-Exercises in the Coursera course of Machine Learning provided by Stanford University (https://www.coursera.org/learn/machine-learning)
+This repository is based on Coursera's course "Machine learning" by Prof. Andrew Ng from Stanford University (https://www.coursera.org/learn/machine-learning). In this course, all codes for the exercises should be written in Octave or Matlab. Because I thought it would be useful to have a python version of all codes, I decided to do all exercises using python instead of Matlab.
