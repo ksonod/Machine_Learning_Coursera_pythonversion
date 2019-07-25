@@ -8,3 +8,7 @@ This repository is based on Coursera's course "Machine learning" by Prof. Andrew
 - Learning rate
 - Feature normalization
 - Normal equation
+## Ex2
+- Logistic regression
+- Regularized logistic regression
+- Feature mapping
