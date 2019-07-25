@@ -12,3 +12,4 @@ This repository is based on Coursera's course "Machine learning" by Prof. Andrew
 - Logistic regression
 - Regularized logistic regression
 - Feature mapping
+- Decision boundary
