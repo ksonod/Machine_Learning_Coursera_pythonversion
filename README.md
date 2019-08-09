@@ -21,3 +21,14 @@ This repository is based on Coursera's course "Machine learning" by Prof. Andrew
 - One-vs-all logistic regression
 - Neural network
 - Handwriting recognition
+
+
+## [Ex5](https://github.com/ksonod/Machine_Learning_Coursera_pythonversion/blob/master/Ex3/Ex3.ipynb)
+- Cross validation
+- Regularized linear regression
+- Cost function
+- Hypothesis
+- Bias-variance
+- Learning curves
+- Polynomial regression
+- Fearture normalization
