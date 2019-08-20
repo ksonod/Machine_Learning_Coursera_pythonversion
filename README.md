@@ -1,7 +1,7 @@
 # Machine_Learning_Coursera_pythonversion
 This repository is based on Coursera's course "<strong>Machine learning</strong>" by Prof. Andrew Ng from Stanford University (https://www.coursera.org/learn/machine-learning). In this course, all codes for the exercises should be written in Octave or Matlab. In addition, some codes are partially provided in advance.
 
-Here, I built all codes from the beginning using Python 3. This repository searves as a showcase which shows that I have a basic understanding in machine learning and python. In addition, this can be also regarded as my study notebook because I added some explanation. 
+Here, I built all codes from the beginning using Python 3. This repository searves as a showcase which shows that I have a basic understanding in machine learning and python. In addition, this can be also regarded as my study notebook because I added some explanation and did additional analysis. 
 ** Note: Some equations cannot be read on Github. However, they are visible on jupyter notebook environment.
 
 ## [Ex1](https://github.com/ksonod/Machine_Learning_Coursera_pythonversion/blob/master/Ex1/Ex1.ipynb)
