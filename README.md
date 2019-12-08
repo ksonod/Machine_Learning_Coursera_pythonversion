@@ -27,7 +27,7 @@ Here, I wrote all codes using Python 3 by myself. This repository can be regarde
 - One-vs-all logistic regression
 - Neural network
 - Handwriting recognition  
-<img src="https://i.imgur.com/eBaANmC.png" width="500px">     
+<img src="https://i.imgur.com/eBaANmC.png" width="300px">     
 
 ## [Ex4](https://github.com/ksonod/Machine_Learning_Coursera_pythonversion/blob/master/Ex4/Ex4.ipynb)
 - Handwriting recognition
@@ -36,6 +36,8 @@ Here, I wrote all codes using Python 3 by myself. This repository can be regarde
 - Feedforward computation
 - Backpropagation algorithm
 - Gradient checking
+<img src="https://i.imgur.com/jCye6P1.png" width="300px">       
+
 ## [Ex5](https://github.com/ksonod/Machine_Learning_Coursera_pythonversion/blob/master/Ex5/Ex5.ipynb)
 - Cross validation
 - Regularized linear regression
