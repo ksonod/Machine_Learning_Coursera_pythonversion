@@ -14,7 +14,9 @@ Here, I wrote all codes using Python 3 by myself. This repository can be regarde
 - Learning rate
 - Feature normalization
 - Normal equation
-## [Ex2](https://github.com/ksonod/Machine_Learning_Coursera_pythonversion/blob/master/Ex2/Ex2.ipynb)
+## [Ex2](https://github.com/ksonod/Machine_Learning_Coursera_pythonversion/blob/master/Ex2/Ex2.ipynb)  
+<img src="https://i.imgur.com/dulLjZ3.png" width="600px">    
+   
 - Logistic regression
 - Regularized logistic regression
 - Feature mapping
