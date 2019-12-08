@@ -6,6 +6,7 @@ Here, I wrote all codes using Python 3 by myself. This repository can be regarde
 
 ## [Ex1](https://github.com/ksonod/Machine_Learning_Coursera_pythonversion/blob/master/Ex1/Ex1.ipynb)
 <img src="https://i.imgur.com/kfPOYIl.png" width="600px">  
+  
 - Linear regression with one and multiple variables
 - Gradient descent
 - Hypothesis h
