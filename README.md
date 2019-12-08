@@ -56,6 +56,9 @@ Here, I wrote all codes using Python 3 by myself. This repository can be regarde
 - C parameter
 - Gaussian kernels
 - Spam classification
+<img src="https://i.imgur.com/cbhDn9T.png" width="500px">    
+  
+
 ## [Ex7](https://github.com/ksonod/Machine_Learning_Coursera_pythonversion/blob/master/Ex7/Ex7.ipynb)
 - K-means clustering
 - Random initialization
