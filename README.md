@@ -66,4 +66,5 @@ Here, I wrote all codes using Python 3 by myself. This repository can be regarde
 - Principal component analysis (PCA)
 - Dimensionality reduction
 - Covariance matrix
-- Singular value decomposition (SVD)
+- Singular value decomposition (SVD)   
+<img src="https://i.imgur.com/vUb2Xvw.png" width="500px">    
