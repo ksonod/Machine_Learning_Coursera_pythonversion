@@ -36,7 +36,7 @@ Here, I wrote all codes using Python 3 by myself. This repository can be regarde
 - Feedforward computation
 - Backpropagation algorithm
 - Gradient checking
-<img src="https://i.imgur.com/jCye6P1.png" width="300px">       
+<img src="https://i.imgur.com/jCye6P1.png" width="900px">       
 
 ## [Ex5](https://github.com/ksonod/Machine_Learning_Coursera_pythonversion/blob/master/Ex5/Ex5.ipynb)
 - Cross validation
