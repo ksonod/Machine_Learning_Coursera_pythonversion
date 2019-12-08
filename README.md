@@ -46,7 +46,9 @@ Here, I wrote all codes using Python 3 by myself. This repository can be regarde
 - Bias-variance
 - Learning curves
 - Polynomial regression
-- Fearture normalization
+- Fearture normalization  
+<img src="https://i.imgur.com/T6gkLD3.png" width="900px">    
+  
 ## [Ex6](https://github.com/ksonod/Machine_Learning_Coursera_pythonversion/blob/master/Ex6/Ex6.ipynb)
 - Support vector machine
 - Decision boundary
