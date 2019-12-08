@@ -15,13 +15,15 @@ Here, I wrote all codes using Python 3 by myself. This repository can be regarde
 - Feature normalization
 - Normal equation
 ## [Ex2](https://github.com/ksonod/Machine_Learning_Coursera_pythonversion/blob/master/Ex2/Ex2.ipynb)  
-<img src="https://i.imgur.com/dulLjZ3.png" width="600px">    
+<img src="https://i.imgur.com/dulLjZ3.png" width="500px">    
    
 - Logistic regression
 - Regularized logistic regression
 - Feature mapping
-- Decision boundary
-## [Ex3](https://github.com/ksonod/Machine_Learning_Coursera_pythonversion/blob/master/Ex3/Ex3.ipynb)
+- Decision boundary  
+## [Ex3](https://github.com/ksonod/Machine_Learning_Coursera_pythonversion/blob/master/Ex3/Ex3.ipynb)  
+<img src="https://i.imgur.com/eBaANmC.png" width="500px">     
+  
 - Multi-class classification
 - Regularized logistic regression
 - One-vs-all logistic regression
