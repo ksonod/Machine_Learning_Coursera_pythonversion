@@ -67,4 +67,4 @@ Here, I wrote all codes using Python 3 by myself. This repository can be regarde
 - Dimensionality reduction
 - Covariance matrix
 - Singular value decomposition (SVD)   
-<img src="https://i.imgur.com/vUb2Xvw.png" width="500px">    
+<img src="https://i.imgur.com/vUb2Xvw.png" width="900px">    
