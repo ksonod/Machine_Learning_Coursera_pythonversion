@@ -5,30 +5,30 @@ Here, I wrote all codes using Python 3 by myself. This repository can be regarde
 ** Note: Some equations cannot be read on Github. However, they are visible on jupyter notebook environment.
 
 ## [Ex1](https://github.com/ksonod/Machine_Learning_Coursera_pythonversion/blob/master/Ex1/Ex1.ipynb)
-<img src="https://i.imgur.com/kfPOYIl.png" width="600px">  
-  
 - Linear regression with one and multiple variables
 - Gradient descent
 - Hypothesis h
 - Cost function J
 - Learning rate
 - Feature normalization
-- Normal equation
+- Normal equation  
+<img src="https://i.imgur.com/kfPOYIl.png" width="600px">  
+
 ## [Ex2](https://github.com/ksonod/Machine_Learning_Coursera_pythonversion/blob/master/Ex2/Ex2.ipynb)  
-<img src="https://i.imgur.com/dulLjZ3.png" width="500px">    
-   
 - Logistic regression
 - Regularized logistic regression
 - Feature mapping
-- Decision boundary  
+- Decision boundary    
+<img src="https://i.imgur.com/dulLjZ3.png" width="500px">    
+
 ## [Ex3](https://github.com/ksonod/Machine_Learning_Coursera_pythonversion/blob/master/Ex3/Ex3.ipynb)  
-<img src="https://i.imgur.com/eBaANmC.png" width="500px">     
-  
 - Multi-class classification
 - Regularized logistic regression
 - One-vs-all logistic regression
 - Neural network
-- Handwriting recognition
+- Handwriting recognition  
+<img src="https://i.imgur.com/eBaANmC.png" width="500px">     
+
 ## [Ex4](https://github.com/ksonod/Machine_Learning_Coursera_pythonversion/blob/master/Ex4/Ex4.ipynb)
 - Handwriting recognition
 - Neural network
